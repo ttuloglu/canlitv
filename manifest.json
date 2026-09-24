@@ -1,8 +1,8 @@
 {
   "id": "community.ttuloglu.canlitv",
-  "version": "2.1.0",
-  "name": "Anthology TV (Özel Liste)",
-  "description": "Özel Sıralı Canlı Spor (BeIN, S Sport, TRT), Geniş Sinema ve Belgesel Kanalları.",
+  "version": "2.2.0",
+  "name": "Anthology Canlı TV (Özel Liste)",
+  "description": "Türkiye Ulusal, Canlı Spor (BeIN, S Sport, TRT Spor önde), Haber, Belgesel & Çocuk, Sinema ve Müzik Yayınları.",
   "resources": [
     "catalog",
     "meta",
@@ -13,7 +13,9 @@
     "channel"
   ],
   "idPrefixes": [
-    "tv:"
+    "tv:",
+    "tv_",
+    "iptv_"
   ],
   "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
   "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
@@ -22,28 +24,6 @@
       "type": "tv",
       "id": "anthology_canli_spor",
       "name": "⚽ Canlı Spor",
-      "extra": [
-        {
-          "name": "search",
-          "isRequired": false
-        }
-      ]
-    },
-    {
-      "type": "tv",
-      "id": "anthology_sinema_list",
-      "name": "🎬 Sinema",
-      "extra": [
-        {
-          "name": "search",
-          "isRequired": false
-        }
-      ]
-    },
-    {
-      "type": "tv",
-      "id": "anthology_belgesel_cocuk",
-      "name": "🦁 Belgesel & Çocuk",
       "extra": [
         {
           "name": "search",
@@ -64,8 +44,56 @@
     },
     {
       "type": "tv",
+      "id": "anthology_canli_tv",
+      "name": "📺 Tüm Kanallar",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        },
+        {
+          "name": "genre",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "tv",
       "id": "anthology_canli_haber",
       "name": "📰 Canlı Haber",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "tv",
+      "id": "anthology_belgesel_cocuk",
+      "name": "🦁 Belgesel & Çocuk",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "tv",
+      "id": "anthology_sinema_list",
+      "name": "🎬 Sinema",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "tv",
+      "id": "anthology_muzik",
+      "name": "🎵 Müzik & Eğlence",
       "extra": [
         {
           "name": "search",
