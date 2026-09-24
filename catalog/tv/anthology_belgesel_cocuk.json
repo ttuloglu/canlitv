@@ -1,0 +1,158 @@
+{
+  "metas": [
+    {
+      "id": "tv:discoveryChannel",
+      "type": "tv",
+      "name": "Discovery Channel HD",
+      "poster": "https://docdog.top/logo/countries/turkey/discoverychannel.png",
+      "background": "https://docdog.top/logo/countries/turkey/discoverychannel.png",
+      "description": "Discovery Channel HD Canlı [Türkçe Dublaj]",
+      "genres": [
+        "Belgesel & Çocuk"
+      ]
+    },
+    {
+      "id": "tv:discoveryScience",
+      "type": "tv",
+      "name": "Discovery Science HD",
+      "poster": "https://docdog.top/logo/countries/turkey/discoveryscience.png",
+      "background": "https://docdog.top/logo/countries/turkey/discoveryscience.png",
+      "description": "Discovery Science HD Canlı [Türkçe Dublaj]",
+      "genres": [
+        "Belgesel & Çocuk"
+      ]
+    },
+    {
+      "id": "tv:discoveryID",
+      "type": "tv",
+      "name": "Investigation Discovery (ID) HD",
+      "poster": "https://docdog.top/logo/countries/turkey/discoveryidx.png",
+      "background": "https://docdog.top/logo/countries/turkey/discoveryidx.png",
+      "description": "Investigation Discovery (ID) HD Canlı [Türkçe Dublaj]",
+      "genres": [
+        "Belgesel & Çocuk"
+      ]
+    },
+    {
+      "id": "tv:nationalGeo",
+      "type": "tv",
+      "name": "National Geographic HD",
+      "poster": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/national-geographic-de.png",
+      "background": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/national-geographic-de.png",
+      "description": "National Geographic HD Canlı [Türkçe Dublaj]",
+      "genres": [
+        "Belgesel & Çocuk"
+      ]
+    },
+    {
+      "id": "tv:natGeoWild",
+      "type": "tv",
+      "name": "Nat Geo Wild HD",
+      "poster": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nat-geo-wild-de.png",
+      "background": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nat-geo-wild-de.png",
+      "description": "Nat Geo Wild HD Canlı [Türkçe Dublaj]",
+      "genres": [
+        "Belgesel & Çocuk"
+      ]
+    },
+    {
+      "id": "tv:historyChannel",
+      "type": "tv",
+      "name": "History Channel HD",
+      "poster": "https://docdog.top/logo/countries/turkey/historychannel.png",
+      "background": "https://docdog.top/logo/countries/turkey/historychannel.png",
+      "description": "History Channel HD Canlı [Türkçe Dublaj]",
+      "genres": [
+        "Belgesel & Çocuk"
+      ]
+    },
+    {
+      "id": "tv:bbcearth",
+      "type": "tv",
+      "name": "BBC Earth HD",
+      "poster": "https://docdog.top/logo/countries/turkey/bbcearth.png",
+      "background": "https://docdog.top/logo/countries/turkey/bbcearth.png",
+      "description": "BBC Earth HD Canlı [Türkçe Dublaj]",
+      "genres": [
+        "Belgesel & Çocuk"
+      ]
+    },
+    {
+      "id": "tv:viasatHistory",
+      "type": "tv",
+      "name": "Viasat History HD",
+      "poster": "https://docdog.top/logo/countries/turkey/viasathistory.png",
+      "background": "https://docdog.top/logo/countries/turkey/viasathistory.png",
+      "description": "Viasat History HD Canlı [Türkçe Dublaj]",
+      "genres": [
+        "Belgesel & Çocuk"
+      ]
+    },
+    {
+      "id": "tv:animalPlanet",
+      "type": "tv",
+      "name": "Animal Planet HD",
+      "poster": "https://docdog.top/logo/countries/turkey/animalplanet.png",
+      "background": "https://docdog.top/logo/countries/turkey/animalplanet.png",
+      "description": "Animal Planet HD Canlı [Türkçe Dublaj]",
+      "genres": [
+        "Belgesel & Çocuk"
+      ]
+    },
+    {
+      "id": "tv:TLC.tr",
+      "type": "tv",
+      "name": "TLC HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tlc.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tlc.png",
+      "description": "TLC HD Canlı [Türkçe]",
+      "genres": [
+        "Belgesel & Çocuk"
+      ]
+    },
+    {
+      "id": "tv:DMAX.tr",
+      "type": "tv",
+      "name": "DMAX HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/dmax.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/dmax.png",
+      "description": "DMAX HD Canlı [Türkçe]",
+      "genres": [
+        "Belgesel & Çocuk"
+      ]
+    },
+    {
+      "id": "tv:TRTBelgesel.tr",
+      "type": "tv",
+      "name": "TRT Belgesel HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtbelgesel.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtbelgesel.png",
+      "description": "TRT Belgesel HD Canlı [Türkçe]",
+      "genres": [
+        "Belgesel & Çocuk"
+      ]
+    },
+    {
+      "id": "tv:TRTCocuk.tr",
+      "type": "tv",
+      "name": "TRT Çocuk HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtcocuk.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtcocuk.png",
+      "description": "TRT Çocuk HD Canlı [Türkçe]",
+      "genres": [
+        "Belgesel & Çocuk"
+      ]
+    },
+    {
+      "id": "tv:MinikaCocuk.tr",
+      "type": "tv",
+      "name": "Minika Çocuk HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/minikacocuk.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/minikacocuk.png",
+      "description": "Minika Çocuk HD Canlı [Türkçe]",
+      "genres": [
+        "Belgesel & Çocuk"
+      ]
+    }
+  ]
+}

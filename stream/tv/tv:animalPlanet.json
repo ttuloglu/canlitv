@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "⌜ Animal Planet HD ⌟",
+      "title": "🔴 Animal Planet HD",
+      "url": "http://31.43.191.125:8080/restream/restream/141860",
+      "behaviorHints": {
+        "isLive": true
+      }
+    }
+  ]
+}

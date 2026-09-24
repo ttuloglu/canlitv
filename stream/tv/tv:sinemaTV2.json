@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "⌜ Sinema TV 2 HD ⌟",
+      "title": "🔴 Sinema TV 2 HD",
+      "url": "http://31.43.191.125:8080/restream/restream/141808",
+      "behaviorHints": {
+        "isLive": true
+      }
+    }
+  ]
+}

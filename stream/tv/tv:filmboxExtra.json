@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "⌜ FilmBox Extra HD ⌟",
+      "title": "🔴 FilmBox Extra HD",
+      "url": "http://31.43.191.125:8080/restream/restream/141802",
+      "behaviorHints": {
+        "isLive": true
+      }
+    }
+  ]
+}

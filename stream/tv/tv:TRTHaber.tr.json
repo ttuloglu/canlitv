@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "⌜ TRT Haber HD ⌟",
+      "title": "🔴 TRT Haber HD",
+      "url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8",
+      "behaviorHints": {
+        "isLive": true
+      }
+    }
+  ]
+}

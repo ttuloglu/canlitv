@@ -1,0 +1,48 @@
+{
+  "metas": [
+    {
+      "id": "tv:TRTHaber.tr",
+      "type": "tv",
+      "name": "TRT Haber HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trthaber.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trthaber.png",
+      "description": "TRT Haber Canlı",
+      "genres": [
+        "Haber"
+      ]
+    },
+    {
+      "id": "tv:NTV.tr",
+      "type": "tv",
+      "name": "NTV Haber HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ntv.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ntv.png",
+      "description": "NTV Haber Canlı",
+      "genres": [
+        "Haber"
+      ]
+    },
+    {
+      "id": "tv:Haberturk.tr",
+      "type": "tv",
+      "name": "Habertürk TV HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/haberturk.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/haberturk.png",
+      "description": "Habertürk Canlı",
+      "genres": [
+        "Haber"
+      ]
+    },
+    {
+      "id": "tv:SozcuTV.tr",
+      "type": "tv",
+      "name": "Sözcü TV HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/sozcutv.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/sozcutv.png",
+      "description": "Sözcü TV Canlı",
+      "genres": [
+        "Haber"
+      ]
+    }
+  ]
+}

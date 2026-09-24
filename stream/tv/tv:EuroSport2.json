@@ -1,0 +1,17 @@
+{
+  "streams": [
+    {
+      "name": "⌜ EuroSport 2 HD ⌟",
+      "title": "🔴 EuroSport 2 HD",
+      "url": "https://andro.evrenesoglu121.click/checklist/androstreamlivees2.m3u8",
+      "behaviorHints": {
+        "isLive": true
+      },
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://mahsunsports80.xyz/",
+        "Origin": "https://mahsunsports80.xyz/"
+      }
+    }
+  ]
+}

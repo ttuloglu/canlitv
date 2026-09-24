@@ -1,0 +1,77 @@
+{
+  "id": "community.ttuloglu.canlitv",
+  "version": "2.1.0",
+  "name": "Anthology TV (Özel Liste)",
+  "description": "Özel Sıralı Canlı Spor (BeIN, S Sport, TRT), Geniş Sinema ve Belgesel Kanalları.",
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "types": [
+    "tv",
+    "channel"
+  ],
+  "idPrefixes": [
+    "tv:"
+  ],
+  "logo": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
+  "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/logo_1_transparent.png",
+  "catalogs": [
+    {
+      "type": "tv",
+      "id": "anthology_canli_spor",
+      "name": "⚽ Canlı Spor",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "tv",
+      "id": "anthology_sinema_list",
+      "name": "🎬 Sinema",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "tv",
+      "id": "anthology_belgesel_cocuk",
+      "name": "🦁 Belgesel & Çocuk",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "tv",
+      "id": "anthology_ulusal",
+      "name": "🇹🇷 Ulusal Kanallar",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "tv",
+      "id": "anthology_canli_haber",
+      "name": "📰 Canlı Haber",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    }
+  ]
+}

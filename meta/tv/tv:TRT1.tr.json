@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "tv:TRT1.tr",
+    "type": "tv",
+    "name": "TRT 1 HD",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trt1.png",
+    "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trt1.png",
+    "description": "TRT 1 HD Canlı",
+    "genres": [
+      "Ulusal"
+    ]
+  }
+}

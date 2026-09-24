@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "⌜ beIN Movies Türk HD ⌟",
+      "title": "🔴 beIN Movies Türk HD",
+      "url": "http://31.43.191.125:8080/restream/restream/141478",
+      "behaviorHints": {
+        "isLive": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "tv:ExxenSpor1",
+    "type": "tv",
+    "name": "Exxen Spor 1 HD",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+    "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+    "description": "Exxen Spor 1 Canlı Yayın [Türkçe]",
+    "genres": [
+      "Spor"
+    ]
+  }
+}

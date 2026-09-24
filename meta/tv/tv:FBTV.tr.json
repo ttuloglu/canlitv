@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "tv:FBTV.tr",
+    "type": "tv",
+    "name": "FB TV HD",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/fbtv.png",
+    "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/fbtv.png",
+    "description": "Fenerbahçe TV Canlı [Türkçe]",
+    "genres": [
+      "Spor"
+    ]
+  }
+}

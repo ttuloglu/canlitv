@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "⌜ DMAX HD (Resmi) ⌟",
+      "title": "🔴 DMAX HD",
+      "url": "https://dmax-live.daioncdn.net/dmax/dmax.m3u8",
+      "behaviorHints": {
+        "isLive": true
+      }
+    }
+  ]
+}

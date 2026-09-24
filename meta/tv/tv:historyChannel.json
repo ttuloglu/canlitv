@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "tv:historyChannel",
+    "type": "tv",
+    "name": "History Channel HD",
+    "poster": "https://docdog.top/logo/countries/turkey/historychannel.png",
+    "background": "https://docdog.top/logo/countries/turkey/historychannel.png",
+    "description": "History Channel HD Canlı [Türkçe Dublaj]",
+    "genres": [
+      "Belgesel & Çocuk"
+    ]
+  }
+}

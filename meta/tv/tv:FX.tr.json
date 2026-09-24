@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "tv:FX.tr",
+    "type": "tv",
+    "name": "FX HD",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/fx.png",
+    "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/fx.png",
+    "description": "FX HD Canlı [Türkçe Dublaj / İngilizce]",
+    "genres": [
+      "Sinema"
+    ]
+  }
+}

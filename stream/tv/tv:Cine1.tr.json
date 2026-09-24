@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "⌜ Cine 1 HD (Resmi) ⌟",
+      "title": "🔴 Cine 1 HD",
+      "url": "https://stream.cine1.com.tr/cine1/cine1.m3u8",
+      "behaviorHints": {
+        "isLive": true
+      }
+    }
+  ]
+}

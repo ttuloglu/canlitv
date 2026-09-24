@@ -1,0 +1,43 @@
+{
+  "streams": [
+    {
+      "name": "⌜ TRT 1 ⌟",
+      "title": "🔴 Mahsun Sports",
+      "url": "https://andro.evrenesoglu121.click/checklist/androstreamlivetrt1.m3u8",
+      "behaviorHints": {
+        "isLive": true
+      },
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://mahsunsports80.xyz/",
+        "Origin": "https://mahsunsports80.xyz/"
+      }
+    },
+    {
+      "name": "⌜ TRT Spor Yıldız ⌟",
+      "title": "🔴 Mahsun Sports",
+      "url": "https://andro.evrenesoglu121.click/checklist/androstreamlivetrtsy.m3u8",
+      "behaviorHints": {
+        "isLive": true
+      },
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://mahsunsports80.xyz/",
+        "Origin": "https://mahsunsports80.xyz/"
+      }
+    },
+    {
+      "name": "⌜ CBC Sport ⌟",
+      "title": "🔴 Mahsun Sports",
+      "url": "https://andro.evrenesoglu121.click/checklist/androstreamlivecbcs.m3u8",
+      "behaviorHints": {
+        "isLive": true
+      },
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://mahsunsports80.xyz/",
+        "Origin": "https://mahsunsports80.xyz/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "⌜ Viasat History HD ⌟",
+      "title": "🔴 Viasat History HD",
+      "url": "http://31.43.191.125:8080/restream/restream/141887",
+      "behaviorHints": {
+        "isLive": true
+      }
+    }
+  ]
+}

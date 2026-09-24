@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "⌜ TRT Çocuk HD (Resmi) ⌟",
+      "title": "🔴 TRT Çocuk HD",
+      "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
+      "behaviorHints": {
+        "isLive": true
+      }
+    }
+  ]
+}

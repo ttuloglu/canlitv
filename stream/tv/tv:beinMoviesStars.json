@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "⌜ beIN Movies Stars HD ⌟",
+      "title": "🔴 beIN Movies Stars HD",
+      "url": "http://31.43.191.125:8080/restream/restream/141477",
+      "behaviorHints": {
+        "isLive": true
+      }
+    }
+  ]
+}

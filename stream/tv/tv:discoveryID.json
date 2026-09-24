@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "⌜ Discovery ID HD ⌟",
+      "title": "🔴 Investigation Discovery (ID) HD",
+      "url": "http://31.43.191.125:8080/restream/restream/141862",
+      "behaviorHints": {
+        "isLive": true
+      }
+    }
+  ]
+}

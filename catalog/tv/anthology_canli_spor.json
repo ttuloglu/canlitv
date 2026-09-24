@@ -1,0 +1,279 @@
+{
+  "metas": [
+    {
+      "id": "tv:beINSports1",
+      "type": "tv",
+      "name": "BeIN Sports 1 HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "description": "BeIN Sports 1 Canlı Yayın [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:beINSports2",
+      "type": "tv",
+      "name": "BeIN Sports 2 HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "description": "BeIN Sports 2 Canlı Yayın [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:beINSports3",
+      "type": "tv",
+      "name": "BeIN Sports 3 HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "description": "BeIN Sports 3 Canlı Yayın [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:beINSports4",
+      "type": "tv",
+      "name": "BeIN Sports 4 HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "description": "BeIN Sports 4 Canlı Yayın [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:beINSports5",
+      "type": "tv",
+      "name": "BeIN Sports 5 HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "description": "BeIN Sports 5 Canlı Yayın [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:beINSportsMax1",
+      "type": "tv",
+      "name": "BeIN Sports Max 1 HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "description": "BeIN Sports Max 1 Canlı Yayın [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:beINSportsMax2",
+      "type": "tv",
+      "name": "BeIN Sports Max 2 HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+      "description": "BeIN Sports Max 2 Canlı Yayın [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:SSport1",
+      "type": "tv",
+      "name": "S Sport 1 HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
+      "description": "S Sport 1 Canlı Yayın [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:SSport2",
+      "type": "tv",
+      "name": "S Sport 2 HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
+      "description": "S Sport 2 Canlı Yayın [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:SSportPlus",
+      "type": "tv",
+      "name": "S Sport Plus HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/ssport.png",
+      "description": "S Sport Plus Canlı Yayın [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:TivibuSpor1",
+      "type": "tv",
+      "name": "Tivibu Spor 1 HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
+      "description": "Tivibu Spor 1 Canlı Yayın [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:TivibuSpor2",
+      "type": "tv",
+      "name": "Tivibu Spor 2 HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
+      "description": "Tivibu Spor 2 Canlı Yayın [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:TivibuSpor3",
+      "type": "tv",
+      "name": "Tivibu Spor 3 HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
+      "description": "Tivibu Spor 3 Canlı Yayın [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:TivibuSpor4",
+      "type": "tv",
+      "name": "Tivibu Spor 4 HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tivibuspor.png",
+      "description": "Tivibu Spor 4 Canlı Yayın [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:TRTSpor.tr",
+      "type": "tv",
+      "name": "TRT Spor HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtspor.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtspor.png",
+      "description": "TRT Spor HD Canlı [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:TRTSporYildiz.tr",
+      "type": "tv",
+      "name": "TRT Spor Yıldız HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtsporyildiz.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtsporyildiz.png",
+      "description": "TRT Spor Yıldız HD Canlı [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:ASpor.tr",
+      "type": "tv",
+      "name": "A Spor HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/aspor.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/aspor.png",
+      "description": "A Spor HD Canlı [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:TV85.tr",
+      "type": "tv",
+      "name": "TV8.5 HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv85.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/tv85.png",
+      "description": "TV8.5 HD Canlı [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:FBTV.tr",
+      "type": "tv",
+      "name": "FB TV HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/fbtv.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/fbtv.png",
+      "description": "Fenerbahçe TV Canlı [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:CBCSport.tr",
+      "type": "tv",
+      "name": "CBC Sport HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/cbcsport.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/cbcsport.png",
+      "description": "CBC Sport HD Canlı [Azerbaycan / Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:ExxenSpor1",
+      "type": "tv",
+      "name": "Exxen Spor 1 HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+      "description": "Exxen Spor 1 Canlı Yayın [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:ExxenSpor2",
+      "type": "tv",
+      "name": "Exxen Spor 2 HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/exxenspor.png",
+      "description": "Exxen Spor 2 Canlı Yayın [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:EuroSport1",
+      "type": "tv",
+      "name": "EuroSport 1 HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurosport1.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurosport1.png",
+      "description": "EuroSport 1 Canlı [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:EuroSport2",
+      "type": "tv",
+      "name": "EuroSport 2 HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurosport2.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurosport2.png",
+      "description": "EuroSport 2 Canlı [Türkçe]",
+      "genres": [
+        "Spor"
+      ]
+    },
+    {
+      "id": "tv:mahsunsports",
+      "type": "tv",
+      "name": "Mahsun Sports",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/mahsunsports.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/mahsunsports.png",
+      "description": "Mahsun Sports Canlı Maç Kanalları",
+      "genres": [
+        "Spor"
+      ]
+    }
+  ]
+}

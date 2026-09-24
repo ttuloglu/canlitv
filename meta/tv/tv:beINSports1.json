@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "tv:beINSports1",
+    "type": "tv",
+    "name": "BeIN Sports 1 HD",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+    "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/beinsports.png",
+    "description": "BeIN Sports 1 Canlı Yayın [Türkçe]",
+    "genres": [
+      "Spor"
+    ]
+  }
+}

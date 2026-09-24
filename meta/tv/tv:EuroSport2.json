@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "tv:EuroSport2",
+    "type": "tv",
+    "name": "EuroSport 2 HD",
+    "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurosport2.png",
+    "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/eurosport2.png",
+    "description": "EuroSport 2 Canlı [Türkçe]",
+    "genres": [
+      "Spor"
+    ]
+  }
+}

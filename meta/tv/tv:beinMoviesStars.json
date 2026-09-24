@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "tv:beinMoviesStars",
+    "type": "tv",
+    "name": "beIN Movies Stars HD",
+    "poster": "https://docdog.top/logo/countries/turkey/bein-movies-stars-hd-tr.png",
+    "background": "https://docdog.top/logo/countries/turkey/bein-movies-stars-hd-tr.png",
+    "description": "beIN Movies Stars HD Canlı Film Yayını [Türkçe Dublaj / Altyazı]",
+    "genres": [
+      "Sinema"
+    ]
+  }
+}

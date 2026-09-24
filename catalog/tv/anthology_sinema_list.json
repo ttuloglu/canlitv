@@ -1,0 +1,224 @@
+{
+  "metas": [
+    {
+      "id": "tv:beinMoviesPremiere",
+      "type": "tv",
+      "name": "beIN Movies Premiere HD",
+      "poster": "https://docdog.top/logo/countries/turkey/bein-movies-premier-hd-tr.png",
+      "background": "https://docdog.top/logo/countries/turkey/bein-movies-premier-hd-tr.png",
+      "description": "beIN Movies Premiere HD Canlı Film Yayını [Türkçe Dublaj / Altyazı]",
+      "genres": [
+        "Sinema"
+      ]
+    },
+    {
+      "id": "tv:beinMoviesPremiere2",
+      "type": "tv",
+      "name": "beIN Movies Premiere 2 HD",
+      "poster": "https://docdog.top/logo/countries/turkey/bein-movies-premier-hd-tr.png",
+      "background": "https://docdog.top/logo/countries/turkey/bein-movies-premier-hd-tr.png",
+      "description": "beIN Movies Premiere 2 HD Canlı Film Yayını [Türkçe Dublaj / Altyazı]",
+      "genres": [
+        "Sinema"
+      ]
+    },
+    {
+      "id": "tv:beinMoviesStars",
+      "type": "tv",
+      "name": "beIN Movies Stars HD",
+      "poster": "https://docdog.top/logo/countries/turkey/bein-movies-stars-hd-tr.png",
+      "background": "https://docdog.top/logo/countries/turkey/bein-movies-stars-hd-tr.png",
+      "description": "beIN Movies Stars HD Canlı Film Yayını [Türkçe Dublaj / Altyazı]",
+      "genres": [
+        "Sinema"
+      ]
+    },
+    {
+      "id": "tv:beinMoviesAction",
+      "type": "tv",
+      "name": "beIN Movies Action HD",
+      "poster": "https://docdog.top/logo/countries/turkey/bein-movies-action-1-hd-tr.png",
+      "background": "https://docdog.top/logo/countries/turkey/bein-movies-action-1-hd-tr.png",
+      "description": "beIN Movies Action HD Canlı Film Yayını [Türkçe Dublaj / Altyazı]",
+      "genres": [
+        "Sinema"
+      ]
+    },
+    {
+      "id": "tv:beinMoviesAction2",
+      "type": "tv",
+      "name": "beIN Movies Action 2 HD",
+      "poster": "https://docdog.top/logo/countries/turkey/bein-movies-action-2-hd-tr.png",
+      "background": "https://docdog.top/logo/countries/turkey/bein-movies-action-2-hd-tr.png",
+      "description": "beIN Movies Action 2 HD Canlı Film Yayını [Türkçe Dublaj / Altyazı]",
+      "genres": [
+        "Sinema"
+      ]
+    },
+    {
+      "id": "tv:beinMoviesFamily",
+      "type": "tv",
+      "name": "beIN Movies Family HD",
+      "poster": "https://docdog.top/logo/countries/turkey/bein-movies-family-hd-tr.png",
+      "background": "https://docdog.top/logo/countries/turkey/bein-movies-family-hd-tr.png",
+      "description": "beIN Movies Family HD Canlı Film Yayını [Türkçe Dublaj / Altyazı]",
+      "genres": [
+        "Sinema"
+      ]
+    },
+    {
+      "id": "tv:beinMoviesComedy",
+      "type": "tv",
+      "name": "beIN Movies Comedy HD",
+      "poster": "https://docdog.top/logo/countries/turkey/bein-movies-comedy-hd-tr.png",
+      "background": "https://docdog.top/logo/countries/turkey/bein-movies-comedy-hd-tr.png",
+      "description": "beIN Movies Comedy HD Canlı Film Yayını [Türkçe Dublaj / Altyazı]",
+      "genres": [
+        "Sinema"
+      ]
+    },
+    {
+      "id": "tv:beinMoviesTurk",
+      "type": "tv",
+      "name": "beIN Movies Türk HD",
+      "poster": "https://docdog.top/logo/countries/turkey/bein-movies-turk-hd-tr.png",
+      "background": "https://docdog.top/logo/countries/turkey/bein-movies-turk-hd-tr.png",
+      "description": "beIN Movies Türk HD Canlı Yerli Sinema Yayını",
+      "genres": [
+        "Sinema"
+      ]
+    },
+    {
+      "id": "tv:sinemaTV",
+      "type": "tv",
+      "name": "Sinema TV HD",
+      "poster": "https://docdog.top/logo/countries/turkey/sinema-tv-tr.png",
+      "background": "https://docdog.top/logo/countries/turkey/sinema-tv-tr.png",
+      "description": "Sinema TV HD Canlı Film Yayını [Türkçe Dublaj / Altyazı]",
+      "genres": [
+        "Sinema"
+      ]
+    },
+    {
+      "id": "tv:sinemaTV2",
+      "type": "tv",
+      "name": "Sinema TV 2 HD",
+      "poster": "https://docdog.top/logo/countries/turkey/sinema-tv-2-tr.png",
+      "background": "https://docdog.top/logo/countries/turkey/sinema-tv-2-tr.png",
+      "description": "Sinema TV 2 HD Canlı Film Yayını [Türkçe Dublaj / Altyazı]",
+      "genres": [
+        "Sinema"
+      ]
+    },
+    {
+      "id": "tv:sinemaTVAksiyon",
+      "type": "tv",
+      "name": "Sinema TV Aksiyon HD",
+      "poster": "https://docdog.top/logo/countries/turkey/sinema-tv-aksiyon-tr.png",
+      "background": "https://docdog.top/logo/countries/turkey/sinema-tv-aksiyon-tr.png",
+      "description": "Sinema TV Aksiyon HD Canlı Film Yayını [Türkçe Dublaj / Altyazı]",
+      "genres": [
+        "Sinema"
+      ]
+    },
+    {
+      "id": "tv:sinemaTVAile",
+      "type": "tv",
+      "name": "Sinema TV Aile HD",
+      "poster": "https://docdog.top/logo/countries/turkey/sinema-tv-aile-tr.png",
+      "background": "https://docdog.top/logo/countries/turkey/sinema-tv-aile-tr.png",
+      "description": "Sinema TV Aile HD Canlı Film Yayını [Türkçe Dublaj / Altyazı]",
+      "genres": [
+        "Sinema"
+      ]
+    },
+    {
+      "id": "tv:sinemaTVKomedi",
+      "type": "tv",
+      "name": "Sinema TV Komedi HD",
+      "poster": "https://docdog.top/logo/countries/turkey/sinema-tv-komedi-tr.png",
+      "background": "https://docdog.top/logo/countries/turkey/sinema-tv-komedi-tr.png",
+      "description": "Sinema TV Komedi HD Canlı Film Yayını [Türkçe Dublaj / Altyazı]",
+      "genres": [
+        "Sinema"
+      ]
+    },
+    {
+      "id": "tv:sinemaTV1001",
+      "type": "tv",
+      "name": "Sinema TV 1001 HD",
+      "poster": "https://docdog.top/logo/countries/turkey/sinema-tv-1001-tr.png",
+      "background": "https://docdog.top/logo/countries/turkey/sinema-tv-1001-tr.png",
+      "description": "Sinema TV 1001 HD Canlı Klasik ve Başyapıt Film Yayını",
+      "genres": [
+        "Sinema"
+      ]
+    },
+    {
+      "id": "tv:sinemaTVYerli",
+      "type": "tv",
+      "name": "Sinema TV Yerli HD",
+      "poster": "https://docdog.top/logo/countries/turkey/sinema-tv-yerli-tr.png",
+      "background": "https://docdog.top/logo/countries/turkey/sinema-tv-yerli-tr.png",
+      "description": "Sinema TV Yerli HD Canlı Türk Sineması Yayını",
+      "genres": [
+        "Sinema"
+      ]
+    },
+    {
+      "id": "tv:filmbox",
+      "type": "tv",
+      "name": "FilmBox HD",
+      "poster": "https://docdog.top/logo/countries/turkey/filmbox-hd-tr.png",
+      "background": "https://docdog.top/logo/countries/turkey/filmbox-hd-tr.png",
+      "description": "FilmBox HD Canlı Film Yayını [Türkçe Dublaj / Altyazı]",
+      "genres": [
+        "Sinema"
+      ]
+    },
+    {
+      "id": "tv:filmboxExtra",
+      "type": "tv",
+      "name": "FilmBox Extra HD",
+      "poster": "https://docdog.top/logo/countries/turkey/filmbox-extra-tr.png",
+      "background": "https://docdog.top/logo/countries/turkey/filmbox-extra-tr.png",
+      "description": "FilmBox Extra HD Canlı Film Yayını [Türkçe Dublaj / Altyazı]",
+      "genres": [
+        "Sinema"
+      ]
+    },
+    {
+      "id": "tv:Cine1.tr",
+      "type": "tv",
+      "name": "Cine 1 HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/cine1.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/cine1.png",
+      "description": "Cine 1 HD Canlı [Türkçe]",
+      "genres": [
+        "Sinema"
+      ]
+    },
+    {
+      "id": "tv:FX.tr",
+      "type": "tv",
+      "name": "FX HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/fx.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/fx.png",
+      "description": "FX HD Canlı [Türkçe Dublaj / İngilizce]",
+      "genres": [
+        "Sinema"
+      ]
+    },
+    {
+      "id": "tv:TRTNostalji.tr",
+      "type": "tv",
+      "name": "TRT Nostalji HD",
+      "poster": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtnostalji.png",
+      "background": "https://raw.githubusercontent.com/falsisdev/anthology/main/assets/canli/trtnostalji.png",
+      "description": "TRT Nostalji HD Canlı [Türkçe]",
+      "genres": [
+        "Sinema"
+      ]
+    }
+  ]
+}

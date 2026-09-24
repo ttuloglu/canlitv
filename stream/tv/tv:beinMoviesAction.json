@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "⌜ beIN Movies Action HD ⌟",
+      "title": "🔴 beIN Movies Action HD",
+      "url": "http://31.43.191.125:8080/restream/restream/141471",
+      "behaviorHints": {
+        "isLive": true
+      }
+    }
+  ]
+}

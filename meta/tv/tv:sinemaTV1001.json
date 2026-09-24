@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "tv:sinemaTV1001",
+    "type": "tv",
+    "name": "Sinema TV 1001 HD",
+    "poster": "https://docdog.top/logo/countries/turkey/sinema-tv-1001-tr.png",
+    "background": "https://docdog.top/logo/countries/turkey/sinema-tv-1001-tr.png",
+    "description": "Sinema TV 1001 HD Canlı Klasik ve Başyapıt Film Yayını",
+    "genres": [
+      "Sinema"
+    ]
+  }
+}

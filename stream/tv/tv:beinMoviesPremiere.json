@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "⌜ beIN Movies Premiere HD ⌟",
+      "title": "🔴 beIN Movies Premiere HD",
+      "url": "http://31.43.191.125:8080/restream/restream/141476",
+      "behaviorHints": {
+        "isLive": true
+      }
+    }
+  ]
+}

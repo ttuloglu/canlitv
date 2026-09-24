@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "⌜ Sinema TV Yerli HD ⌟",
+      "title": "🔴 Sinema TV Yerli HD",
+      "url": "http://31.43.191.125:8080/restream/restream/141816",
+      "behaviorHints": {
+        "isLive": true
+      }
+    }
+  ]
+}

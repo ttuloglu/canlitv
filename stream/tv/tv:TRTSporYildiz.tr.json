@@ -1,0 +1,12 @@
+{
+  "streams": [
+    {
+      "name": "⌜ TRT Spor Yıldız HD (Resmi) ⌟",
+      "title": "🔴 TRT Spor Yıldız HD",
+      "url": "https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8",
+      "behaviorHints": {
+        "isLive": true
+      }
+    }
+  ]
+}

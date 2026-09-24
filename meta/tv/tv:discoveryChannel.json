@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "tv:discoveryChannel",
+    "type": "tv",
+    "name": "Discovery Channel HD",
+    "poster": "https://docdog.top/logo/countries/turkey/discoverychannel.png",
+    "background": "https://docdog.top/logo/countries/turkey/discoverychannel.png",
+    "description": "Discovery Channel HD Canlı [Türkçe Dublaj]",
+    "genres": [
+      "Belgesel & Çocuk"
+    ]
+  }
+}

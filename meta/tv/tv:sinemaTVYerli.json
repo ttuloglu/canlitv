@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "id": "tv:sinemaTVYerli",
+    "type": "tv",
+    "name": "Sinema TV Yerli HD",
+    "poster": "https://docdog.top/logo/countries/turkey/sinema-tv-yerli-tr.png",
+    "background": "https://docdog.top/logo/countries/turkey/sinema-tv-yerli-tr.png",
+    "description": "Sinema TV Yerli HD Canlı Türk Sineması Yayını",
+    "genres": [
+      "Sinema"
+    ]
+  }
+}
