@@ -10,7 +10,9 @@
   ],
   "types": [
     "tv",
-    "channel"
+    "channel",
+    "movie",
+    "series"
   ],
   "idPrefixes": [
     "tv:",
@@ -100,6 +102,46 @@
           "isRequired": false
         }
       ]
+    },
+    {
+      "type": "movie",
+      "id": "hbomax_movies",
+      "name": "HBO Max Filmleri"
+    },
+    {
+      "type": "series",
+      "id": "hbomax_series",
+      "name": "HBO Max Dizileri"
+    },
+    {
+      "type": "movie",
+      "id": "hulu_movies",
+      "name": "Hulu Filmleri"
+    },
+    {
+      "type": "series",
+      "id": "hulu_series",
+      "name": "Hulu Dizileri"
+    },
+    {
+      "type": "movie",
+      "id": "peacock_movies",
+      "name": "Peacock Filmleri"
+    },
+    {
+      "type": "series",
+      "id": "peacock_series",
+      "name": "Peacock Dizileri"
+    },
+    {
+      "type": "movie",
+      "id": "paramount_movies",
+      "name": "Paramount+ Filmleri"
+    },
+    {
+      "type": "series",
+      "id": "paramount_series",
+      "name": "Paramount+ Dizileri"
     }
   ]
 }
