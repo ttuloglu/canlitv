@@ -1,8 +1,8 @@
 {
   "id": "community.ttuloglu.canlitv",
-  "version": "2.2.0",
-  "name": "Anthology Canlı TV (Özel Liste)",
-  "description": "Türkiye Ulusal, Canlı Spor (BeIN, S Sport, TRT Spor önde), Haber, Belgesel & Çocuk, Sinema ve Müzik Yayınları.",
+  "version": "2.3.0",
+  "name": "Anthology Canlı TV & Platformlar",
+  "description": "Canlı Spor ve Tüm Platform Katalogları (Netflix, Disney+, Amazon, HBO Max, Hulu, Peacock, Paramount+, MUBI, IMDb Top 200)",
   "resources": [
     "catalog",
     "meta",
@@ -34,74 +34,34 @@
       ]
     },
     {
-      "type": "tv",
-      "id": "anthology_ulusal",
-      "name": "🇹🇷 Ulusal Kanallar",
-      "extra": [
-        {
-          "name": "search",
-          "isRequired": false
-        }
-      ]
+      "type": "movie",
+      "id": "netflix_movies",
+      "name": "Netflix Filmleri"
     },
     {
-      "type": "tv",
-      "id": "anthology_canli_tv",
-      "name": "📺 Tüm Kanallar",
-      "extra": [
-        {
-          "name": "search",
-          "isRequired": false
-        },
-        {
-          "name": "genre",
-          "isRequired": false
-        }
-      ]
+      "type": "series",
+      "id": "netflix_series",
+      "name": "Netflix Dizileri"
     },
     {
-      "type": "tv",
-      "id": "anthology_canli_haber",
-      "name": "📰 Canlı Haber",
-      "extra": [
-        {
-          "name": "search",
-          "isRequired": false
-        }
-      ]
+      "type": "movie",
+      "id": "disney_movies",
+      "name": "Disney+ Filmleri"
     },
     {
-      "type": "tv",
-      "id": "anthology_belgesel_cocuk",
-      "name": "🦁 Belgesel & Çocuk",
-      "extra": [
-        {
-          "name": "search",
-          "isRequired": false
-        }
-      ]
+      "type": "series",
+      "id": "disney_series",
+      "name": "Disney+ Dizileri"
     },
     {
-      "type": "tv",
-      "id": "anthology_sinema_list",
-      "name": "🎬 Sinema",
-      "extra": [
-        {
-          "name": "search",
-          "isRequired": false
-        }
-      ]
+      "type": "movie",
+      "id": "amazon_movies",
+      "name": "Amazon Prime Filmleri"
     },
     {
-      "type": "tv",
-      "id": "anthology_muzik",
-      "name": "🎵 Müzik & Eğlence",
-      "extra": [
-        {
-          "name": "search",
-          "isRequired": false
-        }
-      ]
+      "type": "series",
+      "id": "amazon_series",
+      "name": "Amazon Prime Dizileri"
     },
     {
       "type": "movie",
@@ -142,6 +102,21 @@
       "type": "series",
       "id": "paramount_series",
       "name": "Paramount+ Dizileri"
+    },
+    {
+      "type": "movie",
+      "id": "mubi_movies",
+      "name": "MUBI Filmleri (Independent & Festival Picks)"
+    },
+    {
+      "type": "movie",
+      "id": "imdb_movies",
+      "name": "IMDb Top 200 Filmleri (Critically Acclaimed Movies)"
+    },
+    {
+      "type": "series",
+      "id": "imdb_series",
+      "name": "IMDb Top 200 Dizileri (Critically Acclaimed Series)"
     }
   ]
 }
